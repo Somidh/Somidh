@@ -34,5 +34,4 @@
 <img alt= "Somidh's top languages" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Somidh&layout=compact&theme=radical" width="350px">
  </summary>
 
-<img alt= "Somidh's top languages" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Somidh&layout=compact&theme=radical" width="350px">
- </summary>
+
