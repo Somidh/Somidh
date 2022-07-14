@@ -29,9 +29,9 @@
 <p><strong>GitHub Profile Stats</strong></p>
 </blockquote>
   <summary width="100%"style=  "text-align:center;display:flex; gap: 2em;align-items: center" >
-<img  alt= "Somidh's github stats" src="https://github-readme-stats.vercel.app/api?username=Somidh&show_icons=true&theme=radical" height ="150px" width="350px"/> 
+<img  alt= "Somidh's github stats" src="https://github-readme-stats.vercel.app/api?username=Somidh&show_icons=true&theme=radical" height ="250px" width="350px"/> 
 
-<img alt= "Somidh's top languages" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Somidh&layout=compact&theme=radical" width="350px" height="150px">
+<img alt= "Somidh's top languages" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Somidh&layout=compact&theme=radical" width="350px" height="250px">
  </summary>
 
 
