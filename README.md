@@ -23,10 +23,10 @@
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91.svg?style=for-the-badge&amp;logo=visual-studio&amp;color=crimson&amp;logoColor=blue" alt="Visual Studio"></p>
 <hr>
 <p><strong>GitHub Profile Stats</strong></p>
-<summary style= "display:flex;gap: 1em>
-<img   alt= "Somidh's github stats" src="https://github-readme-stats.vercel.app/api?username=SomidhRoy&show_icons=true&theme=radical" height ="250px" width="350px"/> 
+ <summary style=  "text-align:center;display:flex; gap: 1em;align-items: center" >
+<img  alt= "Somidh's github stats" src="https://github-readme-stats.vercel.app/api?username=Somidh&show_icons=true&theme=radical" height ="250px" width="350px"/> 
 
-<img alt= "Somidh's top languages" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SomidhRoy&layout=compact&theme=radical" width="350px" height="250px">
+<img alt= "Somidh's top languages" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Somidh&layout=compact&theme=radical" width="350px" height = "250px">
  </summary>
 
 
