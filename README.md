@@ -30,7 +30,7 @@
 
 <p><strong>GitHub Profile Stats</strong></p>
  <summary style=  "display:flex; gap: 2em" >
-<img alt= "Somidh's github stats" src="https://github-readme-stats.vercel.app/api?username=Somidhroy&show_icons=true&theme=radical" height ="150px" width="350px"/> 
+<img alt= "Somidh's github stats" src="https://github-readme-stats.vercel.app/api?username=Somidh&show_icons=true&theme=radical" height ="150px" width="350px"/> 
 
 <img alt= "Somidh's top languages" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Somidh&layout=compact&theme=radical" width="350px" height = "150px">
  </summary>
