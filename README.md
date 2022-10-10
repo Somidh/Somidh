@@ -28,14 +28,14 @@
 <a href ="https://www.codewars.com/users/Somidh"><img src ="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"></a>
 </p>
 
-<p><strong>GitHub Profile Stats</strong></p>
- <summary style=  "display:flex; gap: 2em" >
-<img alt= "Somidh's github stats" src="https://github-readme-stats.vercel.app/api?username=Somidh&show_icons=true&theme=radical" height ="150px" width="350px"/> 
 
-<img alt= "Somidh's top languages" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Somidh&layout=compact&theme=radical" width="350px" height = "150px">
- </summary>
- 
-<p align="left">
+### GitHub Profile Stats : 
+
+  <img alt="Somidh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somidh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="370px"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=somidh&show_icons=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=somidh&theme=react" width="48%" >
+
+<p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=somidh&theme=react-dark&area=true&hide_border=true" width="100%">
 </p>
 
