@@ -34,5 +34,9 @@
 
 <img alt= "Somidh's top languages" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Somidh&layout=compact&theme=radical" width="350px" height = "150px">
  </summary>
+ 
+<p align="left">
+ <img src="https://activity-graph.herokuapp.com/graph?username=somidh&theme=react-dark&area=true&hide_border=true" width="100%">
+</p>
 
 
