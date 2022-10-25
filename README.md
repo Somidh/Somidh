@@ -20,8 +20,12 @@
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91.svg?style=for-the-badge&amp;logo=visual-studio&amp;color=crimson&amp;logoColor=blue" alt="Visual Studio"></p>
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91.svg?style=for-the-badge&amp;logo=visual-studio&amp;color=crimson&amp;logoColor=blue" alt="Visual Studio">
+	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
+ <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" src="Tailwind">
 
+</p>
+ 
 <h2>Other:</h2>
 <p>
 <a href ="https://leetcode.com/somidhroy/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
