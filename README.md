@@ -12,8 +12,7 @@
 <a href="mailto:rsomidh@gmail.com"><img src="https://img.shields.io/badge/rsomidh@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:somidhroy" alt="gmail"></a></p>
 
 
-![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=SomidhRoy)
-<p><br/></p>
+
 
 <h2 id="languages-and-tools-">Languages and Tools:</h2>
 <p> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
