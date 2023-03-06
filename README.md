@@ -3,7 +3,7 @@
 <ul>
 <li>💻Here&#39;s my <a href="https://github.com/Somidh?tab=repositories">Projects!</a></li>
 <li>Looking to contribute on <strong>Open Source Projects</strong></li>
-<li> 👨🏻‍💻I&#39;m currently learning React </li>
+<li> 👨🏻‍💻I&#39;m currently building projects in Typescript </li>
 <li>Fun fact: I love to sing and play guitar😄</li>
 </ul>
 <h2 id="connect-with-me-">Connect with me:</h2>
